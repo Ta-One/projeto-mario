@@ -1,4 +1,4 @@
-# projeto-mario
+# Site do Filme: Super Mario Bros. O Filme
 
 	Olá a todos! Me chamo Tauan (TaOne) é meu primeiro projeto: um site do filme do mario totalmente responsivo (para computadores, tablets e celulares) foi realizado na semana DevEmDobro que foi um evento feito pelo canal do youtube Dev Em Dobro https://www.youtube.com/@DevemDobro. Vale lembrar que foi feito apenas com Frontend.
 	Caso queiram discutir ou comentar sobre o codigo, estarei aqui.
